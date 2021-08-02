@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "金融小美工",
+    "description": "",
+    "home_page_url": "https://aazoo.github.io/plantman",
+    "feed_url": "https://aazoo.github.io/plantman/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "borise"
+    },
+    "items": [
+        {
+            "id": "https://aazoo.github.io/plantman/text.html",
+            "url": "https://aazoo.github.io/plantman/text.html",
+            "title": "text",
+            "summary": " 1234 123 123 ",
+            "content_html": "\n    <h2 id=\"1234\">\n      1234\n    </h2>\n\n  <p>\n    123\n  </p>\n\n  <p>\n    123\n  </p>",
+            "image": "https://aazoo.github.io/plantman/media/posts/2/11.jpg",
+            "author": {
+                "name": "borise"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-29T11:36:35+08:00",
+            "date_modified": "2021-07-29T11:36:35+08:00"
+        }
+    ]
+}

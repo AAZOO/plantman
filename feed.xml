@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>金融小美工</title>
+    <link href="https://aazoo.github.io/plantman/feed.xml" rel="self" />
+    <link href="https://aazoo.github.io/plantman" />
+    <updated>2021-07-29T11:36:35+08:00</updated>
+    <author>
+        <name>borise</name>
+    </author>
+    <id>https://aazoo.github.io/plantman</id>
+
+    <entry>
+        <title>text</title>
+        <author>
+            <name>borise</name>
+        </author>
+        <link href="https://aazoo.github.io/plantman/text.html"/>
+        <id>https://aazoo.github.io/plantman/text.html</id>
+
+        <updated>2021-07-29T11:36:35+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aazoo.github.io/plantman/media/posts/2/11.jpg" alt="cat" />
+                     1234 123 123 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aazoo.github.io/plantman/media/posts/2/11.jpg" alt="cat" />
+                
+    <h2 id="1234">
+      1234
+    </h2>
+
+  <p>
+    123
+  </p>
+
+  <p>
+    123
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

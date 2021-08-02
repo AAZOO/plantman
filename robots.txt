@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aazoo.github.io/plantman/sitemap.xml
